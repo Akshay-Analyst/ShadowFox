@@ -1,4 +1,6 @@
 ShadowFox Data Science Internship 🚀
+
+
 Welcome to my ShadowFox Data Science Internship repository! This repository showcases my work and learnings during the internship, including data preprocessing, exploratory data analysis (EDA), and visualization projects. 
 It highlights how Python libraries like Pandas, Matplotlib, and Seaborn were used to gain insights from data.
 
