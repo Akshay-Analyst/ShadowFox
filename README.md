@@ -35,8 +35,12 @@ Line charts showing age vs. buying frequency.
 Performed sentiment analysis on X data using text preprocessing and machine learning.
 
 🙏 Acknowledgments
+
 Coordinator: Mr. Akash
 Mentor: Mr. Hariharan
+
+
 Feel free to explore and use this repository as a reference for your projects!
+
 
 💡 Suggestions and improvements are always welcome.
